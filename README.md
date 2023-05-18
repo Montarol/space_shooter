@@ -1,1 +1,1 @@
-This is a project made in python.  You need to shoot monsters to win. But you have to be careful with asteroids that can kill you. You need to shoot down 5 ships.
+This is a project made in python.  You need to shoot monsters to win. But you have to be careful with asteroids that can kill you. You need to shoot down 5 ships. It was made on the pygame library. This is my 2nd project on this library. In the project I have several classes for the movement of players and their sprites.
